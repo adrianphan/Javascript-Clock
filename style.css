@@ -1,0 +1,8 @@
+body{
+    background: url("sfbackground.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;   
+    color:white; 
+    font-family: helvetica;
+}
